@@ -1,0 +1,62 @@
+ul {
+    margin: -10px;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 0 28px;
+    text-decoration: none;
+    line-height: 36px;
+    color: snow;
+}
+
+a:hover {
+    color: lightblue;
+    cursor: auto;
+    text-decoration: underline;
+}
+
+.chicken {
+    margin: auto;
+    width: 140vh;
+    text-align: center;
+}
+
+.foods1 {
+    max-width: 91vw;
+    margin: auto;
+    display: flex;
+}
+
+.lines1 {
+    display: inline-block;
+}
+
+.foods2 {
+    max-width: 91vw;
+    margin: auto;
+    display: flex;
+}
+
+.number {
+    border: 2px solid black;
+}
+
+.information {
+    display: table-cell;
+    padding: 0 25px;
+}
+
+.container {
+    background-color: #0f10112e;
+}
